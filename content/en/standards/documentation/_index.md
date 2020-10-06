@@ -40,6 +40,10 @@ We suggest three main categories of documentation:
 - Information on how to install the model so that it can be run (e.g., compilation and/or execution instructions)
 - References to reports or publications where the model is used
 - Changes since the last version (if the model is an update) including bug fixes, new features, or other substantive modifications, where appropriate.
+- Link to other existing standards: 
+    - e.g., Harpham, Q.K. and Danovaro, E. 2015. Towards standard metadata to support models and interfaces in a hydro-meteorological model chain, Journal of Hydroinformatics 17.2 260-274, IWA Publishing. doi: 10.2166/hydro.2014.061. https://doi.org/10.2166/hydro.2014.061
+    - There is an iEMSs group looking at ideal documentation standards for numerical models.
+    - Harpham, Q.K. 2020. A simple taxonomy for describing the spatio-temporal structure of environmental modelling data, Environmental Modelling and Software 133 104810, https://doi.org/10.1016/j.envsoft.2020.104810.
 
 ### Methods and theoretical foundation
 - Assumptions: What are the key assumptions made that define the dynamics of the model?
@@ -71,6 +75,8 @@ We suggest three main categories of documentation:
 ## Ideal Documentation Standards
 
 ## Cyberinfrastructure and Tools for Implementation of Documentation Standards
+- e.g., doxygen
+
 
 ## Examples and References for Documentation
 
