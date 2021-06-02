@@ -47,7 +47,7 @@ We suggest three main categories of documentation:
 - Information on how to install the model so that it can be run (e.g., compilation and/or execution instructions)
 - Use cases: References to reports or publications where the model is used
 - Changes since the last version (if the model is an update) including bug fixes, new features, or other substantive modifications, where appropriate.
-- [Harmonization with schema.org and codemeta metadata vocabularies](https://codemeta.github.io/)
+- [Harmonization with codemeta metadata vocabularies](https://codemeta.github.io/)
 - Development status (e.g., experimental, deployed, peer-reviewed, ...)
 - Funding sources
 
