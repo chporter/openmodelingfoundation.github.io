@@ -51,11 +51,6 @@ We suggest three main categories of documentation:
 - Development status (e.g., experimental, deployed, peer-reviewed, ...)
 - Funding sources
 
-### Sample applications
-- Get-started guide
-- Use case narratives
-- link to publications overview (automated, ideally)
-
 ### Model Documentation: Methods and theoretical foundation
 - Assumptions: What are the key assumptions made that define the dynamics of the model?
 - Model structure: provide a flow diagram of the model.
@@ -64,6 +59,11 @@ We suggest three main categories of documentation:
 - Spatial dimensionality, resolution, extent, grid type if relevant
 - Limitations, domain ranges: What is this model specifically NOT intended to do.
 - Links to open access resources
+
+### Sample applications
+- Get-started guide
+- Use case narratives
+- link to publications overview (automated, ideally)
 
 ### Implementation 
 
